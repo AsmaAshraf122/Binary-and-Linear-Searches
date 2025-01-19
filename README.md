@@ -40,3 +40,4 @@ If the target element is not in the array (e.g., 6), it will require 3 compariso
 First check: Middle = 7
 Second check: Middle of left sub-array = 3
 Third check: Middle of the sub-sub-array = 5
+my LinkedIn Link is here:https://www.linkedin.com/posts/asma-ashraf-229b73347_binarysearch-linearsearch-codingjourney-activity-7286684547805515776-ukBo?utm_source=share&utm_medium=member_desktop
